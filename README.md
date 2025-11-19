@@ -1,2 +1,6 @@
-# Ding design
-Ding is an office for product- and furniture design, open for Inquiries.
+# Office for product- and furniture design.
+Vesterbrogade 183, 02. th
+1800, Frederiksberg C
+Copenhagen, Denmark
++45 20914572
+info@ding-office.com
