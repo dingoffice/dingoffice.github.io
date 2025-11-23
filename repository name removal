@@ -1,0 +1,4 @@
+@import "minima";  /* keep the default Minima styles */
+.site-title {
+  display: none;
+}
