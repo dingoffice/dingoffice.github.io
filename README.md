@@ -1,4 +1,5 @@
-## Office for product- and furniture design <3
+## Ding
+Office for product- and furniture design\
 Vesterbrogade 183, 02. th\
 1800, Frederiksberg C\
 Copenhagen, Denmark\
