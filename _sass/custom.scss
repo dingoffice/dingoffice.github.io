@@ -1,0 +1,32 @@
+@import "minima";
+
+/* --------------------------- */
+/* Hide the site/repo title */
+/* --------------------------- */
+.site-title {
+  display: none !important;
+}
+
+/* --------------------------- */
+/* Remove borders and lines */
+/* --------------------------- */
+p,
+h1, h2, h3, h4, h5, h6,
+li,
+blockquote,
+hr,
+hr::before,
+hr::after {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* Optional: remove header bottom border in Minima */
+h1, h2, h3, h4, h5, h6 {
+  border-bottom: none !important;
+}
+
+/* Optional: adjust spacing if needed */
+p, li, blockquote {
+  margin-bottom: 1em;
+}
