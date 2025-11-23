@@ -1,4 +1,4 @@
-**Industrial Design**\
+**Industrial design**\
 Vesterbrogade 183, 02. th\
 1800, Frederiksberg C\
 Copenhagen, Denmark\
