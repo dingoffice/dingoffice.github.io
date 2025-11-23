@@ -2,14 +2,11 @@
 .site-title {
   display: none;
 }
-@import "minima";
-
-/* Remove borders between headings and paragraphs */
+@import "minima";  /* Remove borders between headings and paragraphs */
 p, h1, h2, h3, h4, h5, h6, li, blockquote {
   border: none !important;
   margin-bottom: 1em; /* optional: adjust spacing */
 }
-
 /* Optional: remove horizontal lines for headers specifically */
 h1, h2, h3, h4, h5, h6 {
   border-bottom: none !important;
